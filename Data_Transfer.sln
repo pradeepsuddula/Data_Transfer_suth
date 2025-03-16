@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Transfer", "Data_Transfer\Data_Transfer.csproj", "{79BBC680-A95D-42AB-93C8-4C5F1CC1FF7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BBC680-A95D-42AB-93C8-4C5F1CC1FF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BBC680-A95D-42AB-93C8-4C5F1CC1FF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BBC680-A95D-42AB-93C8-4C5F1CC1FF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BBC680-A95D-42AB-93C8-4C5F1CC1FF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB6D7229-036A-4CDE-9D99-6019727294DB}
+	EndGlobalSection
+EndGlobal
